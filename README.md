@@ -129,6 +129,9 @@ See `requirements.txt` for detailed version specifications.
 
 Contributions are welcome! Feel free to submit pull requests or open issues for bugs and feature requests.
 
-## Contact
-
-For questions or feedback, please open an issue on GitHub.
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/adarsh-singh-sengar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh_thakur12" height="30" width="40" />
+  </a>
+</p>
