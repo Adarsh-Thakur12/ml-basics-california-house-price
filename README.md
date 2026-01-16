@@ -12,7 +12,6 @@ A machine learning project to predict house prices using the California Housing 
 - [Models](#models)
 - [Results](#results)
 - [Requirements](#requirements)
-- [License](#license)
 
 ## Project Overview
 
