@@ -126,10 +126,6 @@ The models achieve the following approximate RMSE scores (via 10-fold cross-vali
 
 See `requirements.txt` for detailed version specifications.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests or open issues for bugs and feature requests.
